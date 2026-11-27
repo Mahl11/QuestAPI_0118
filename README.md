@@ -6,4 +6,9 @@
 
 ## Preview Tampilan
 
-*(Screenshot hasil running aplikasi operasi Read & Entry serta tampilan berdampingan dengan Android Studio akan ditambahkan setelah pengujian di emulator)*
+<img width="1080" height="2160" alt="image" src="https://github.com/user-attachments/assets/89bfbb05-a576-4ea0-8c9d-f83ece48473f" />
+<img width="1080" height="2160" alt="image" src="https://github.com/user-attachments/assets/5d36213a-26dc-4847-b354-714abe134568" />
+<img width="1080" height="2160" alt="image" src="https://github.com/user-attachments/assets/a9a20874-ba5d-46f1-bace-71b48f68e31f" />
+<img width="1522" height="919" alt="image" src="https://github.com/user-attachments/assets/59d98043-28dd-46fc-ac1d-6eaf47c3c780" />
+
+
